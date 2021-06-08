@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: jiagoushi
+Build-Jdk: 1.8.0_172
+Implementation-Title: newbee-mall
+Implementation-Version: 1.0.0-SNAPSHOT
+Implementation-Vendor-Id: ltd.newbee.mall
+Main-Class: ${start-class}
+
